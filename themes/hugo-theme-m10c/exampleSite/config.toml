@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Your title"
+baseURL = "https://almendrofloracion.netlify.app/"
+title = "Howard van Meer & Daniela Pacheco"
 themesDir = "../.."
 theme = "m10c"
 paginate = 8
@@ -23,7 +23,7 @@ paginate = 8
 
 [params]
   author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  description = "Precedimiento para calcular horas frío para almendro"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
