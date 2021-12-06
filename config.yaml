@@ -1,5 +1,5 @@
 baseURL: "https://almendrofloracion.netlify.app/"
-title: Your title
+title: Howard van Meer & Daniel Pacheco
 theme: hugo-theme-m10c
 paginate: 8
 menu:
@@ -18,7 +18,7 @@ menu:
       weight: 3
 params:
   author: John Doe
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  description: Floración almendro.
   menu_item_separator: ' - '
   social:
     - icon: github
